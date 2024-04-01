@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+       
+  }
+  
+  body {
+      font-size: 100%;
+      background: linear-gradient(68.15deg, #310556 16.62%, #3aa241 85.61%);
+    }
+  
+          .cabecalho{
+          justify-content: space-around;
+          padding: 24px;
+          color: black;
+                      }
+  
+          .cabecalho-menu {
+           font-family: 'Sarala', sans-serif;
+           display :flex;
+           flex-direction: row;
+           justify-content: space-around;
+           padding: 22px;
+           font-size: 26px;
+     }
